@@ -1,0 +1,25 @@
+# Streamlit for building the web application interface
+streamlit==1.40.0
+
+# Pandas for data handling and manipulation
+pandas==2.2.3
+
+# OpenAI API client for language model interactions
+openai==1.54.3
+
+# Google Authentication and Sheets API for accessing Google Sheets
+google-api-core==2.22.0
+google-api-python-client==2.151.0
+google-auth==2.36.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+gspread==5.9.0  # Optional but simplifies Google Sheets integration
+oauth2client==4.1.3
+gspread==6.1.4
+
+# Requests for making HTTP requests if needed
+requests==2.32.3
+requests-oauthlib==2.0.0
+
+# Dotenv for environment variable management
+python-dotenv==1.0.1
