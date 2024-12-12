@@ -170,13 +170,6 @@ Make sure you have a stable internet connection and valid API keys. Double-check
 
 ---
 
-## Loom Video Walkthrough
-
-Watch the walkthrough video [here](c:\Users\aishv\AppData\Roaming\Wondershare\Wondershare Filmora\Output\AI_webAgent_demo.mp4).
-The video is uploaded as a zip file AI_webAgent_demo.mp4 in the repo 
-
----
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for review.
